@@ -1,2 +1,3 @@
 # git
-Test
+My first repository
+Hello Odin
